@@ -1,0 +1,10 @@
+keras==2.11.0
+numba==0.56.4
+numpy==1.21.6
+pandas==1.1.5
+PyYAML==6.0
+scikit-learn==1.0.2
+scipy==1.7.3
+seaborn==0.12.2
+tensorboard==2.11.2
+zipp==3.10.0

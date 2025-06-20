@@ -1,0 +1,12 @@
+algorithm: algorithm.DTCC.model.model
+data_dir: data/test
+out_path: log
+
+algorithm_parameters:
+  device: cuda:0
+  epochs: 800
+  lr: 0.01
+  num_layers: 5
+  dropout_rate: 0.5
+  batch_size: 512
+  k_num_lam: 170
